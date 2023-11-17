@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ucp2</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="konsentrasi">Konsentrasi</string>
+    <string name="judul">Judul</string>
+    <string name="dospem1">Dosen_Pembimbing1</string>
+    <string name="dospem2">Dosen_Pembimbing2</string>
+    <string name="Kembali">Back</string>
+    <string name="Lanjut">Next</string>
+    <string name="dosen1">Asroni</string>
+    <string name="dosen2">Haris Setyawan</string>
+    <string name="dosen3">Eko Prasetyo</string>
+    <string name="btn_submit">Submit</string>
+    <string name="jdl">Formulir Pengajuan Skripsi</string>
+</resources>
